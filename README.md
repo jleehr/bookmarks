@@ -25,7 +25,11 @@
 [CSS 3d Editor](http://tridiv.com/app/)
 
 ### Docs/APIs
-[TCPDF Documentation](http://www.tcpdf.org/doc/code/classTCPDF.html)
+[TCPDF Documentation](http://www.tcpdf.org/doc/code/classTCPDF.html)<br>
+<br>
+[D3js - Data-Driven Documents](https://d3js.org/)<br>
+[D3js Doc](https://github.com/d3/d3/wiki)<br>
+[D3js Intro](https://github.com/curran/screencasts/tree/gh-pages/introToD3)
 
 ***
 ## Webmaster Tools
