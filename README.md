@@ -45,4 +45,6 @@
 ## Domain Management
 [IANA — Root Zone Database](https://www.iana.org/domains/root/db)<br>
 [WIPO Madrid Monitor](http://www.wipo.int/branddb/wo/en/)<br>
-[EUIPO - eSearch](https://euipo.europa.eu/eSearch/)
+[EUIPO - eSearch](https://euipo.europa.eu/eSearch/)<br>
+<br>
+[Scamming-List for Asia Domain names](scam.europeandomaincentre.com)
