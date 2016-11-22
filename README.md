@@ -32,7 +32,7 @@
 [D3js Intro](https://github.com/curran/screencasts/tree/gh-pages/introToD3)
 
 ***
-## Guidlines
+## Guidelines
 [HTML](https://github.com/bendc/frontend-guidelines)<br>
 [CSS](https://github.com/AllThingsSmitty/css-protips)<br>
 [SASS](https://github.com/airbnb/css)<br>
