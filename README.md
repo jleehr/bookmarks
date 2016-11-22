@@ -32,6 +32,14 @@
 [D3js Intro](https://github.com/curran/screencasts/tree/gh-pages/introToD3)
 
 ***
+## Guidlines
+[HTML](https://github.com/bendc/frontend-guidelines)<br>
+[CSS](https://github.com/AllThingsSmitty/css-protips)<br>
+[SASS](https://github.com/airbnb/css)<br>
+[JS](https://github.com/timofurrer/javascript-style-guide)<br>
+[JQuery](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
+
+***
 ## Webmaster Tools
 [Google Search Console](https://www.google.com/webmasters/tools)<br>
 [Bing-Webmastertools](https://www.bing.com/webmaster/home/mysites)<br>
