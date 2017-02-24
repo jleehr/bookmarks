@@ -41,7 +41,9 @@
 [SASS](https://github.com/airbnb/css)<br>
 [JS](https://github.com/timofurrer/javascript-style-guide)<br>
 [JQuery](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)<br>
-[GIT](https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow/)
+[GIT](https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow/)<br>
+<br>
+[Migrate to https](https://movingtohttps.com/)
 
 ***
 ## Webmaster Tools
