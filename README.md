@@ -24,11 +24,15 @@
 [TinyPNG – Compress PNG images while preserving transparency](https://tinypng.com/)<br>
 [IcoMoon App - Icon Font, SVG, PDF & PNG Generator](https://icomoon.io/app/#/select)<br>
 [Farbschemata - Adobe Color CC](https://color.adobe.com/de/create/color-wheel/)<br>
-[CSS 3d Editor](http://tridiv.com/app/)
+[CSS 3d Editor](http://tridiv.com/app/)<br>
+[REST API Testing Client (Chrome Extension)](https://restlet.com/modules/client/)
 
 ### Docs/APIs
 [SASS / SCSS](http://sass-lang.com/guide)<br>
 [TCPDF Documentation](http://www.tcpdf.org/doc/code/classTCPDF.html)<br>
+<br>
+[Doctrine Query Builder](http://docs.doctrine-project.org/projects/doctrine-orm/en/latest/reference/query-builder.html)<br>
+[Select One column Doctrine DQL](http://stackoverflow.com/a/14413127)<br>
 <br>
 [D3js - Data-Driven Documents](https://d3js.org/)<br>
 [D3js Doc](https://github.com/d3/d3/wiki)<br>
