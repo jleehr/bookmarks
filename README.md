@@ -12,7 +12,7 @@
 ## Development
 ### Converter
 [Base64 Converter](http://base64converter.com/)<br>
-[URL Encoder + Decoder](https://url-encoder.de/)
+[URL Encoder + Decoder](https://www.urlencoder.org/)
 
 ### Debugger
 [htaccess tester](http://htaccess.madewithlove.be/)<br>
