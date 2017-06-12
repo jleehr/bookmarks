@@ -42,6 +42,7 @@
 ## Guidelines
 [HTML](https://github.com/bendc/frontend-guidelines)<br>
 [CSS](https://github.com/AllThingsSmitty/css-protips)<br>
+[SASS-Guideline](https://sass-guidelin.es/de/),
 [SASS](https://github.com/airbnb/css)<br>
 [JS](https://github.com/timofurrer/javascript-style-guide)<br>
 [JQuery](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)<br>
