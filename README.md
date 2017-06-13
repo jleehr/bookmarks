@@ -40,6 +40,9 @@
 
 ***
 ## Guidelines
+[Semantic Versioning](http://semver.org)<br>
+[Keep a CHANGELOG](http://keepachangelog.com)<br>
+<br>
 [HTML](https://github.com/bendc/frontend-guidelines)<br>
 [CSS](https://github.com/AllThingsSmitty/css-protips)<br>
 [SASS-Guideline](https://sass-guidelin.es/de/),
