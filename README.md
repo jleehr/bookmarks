@@ -65,7 +65,8 @@
 [SISTRIX](https://next.sistrix.de/toolbox/index)<br>
 [WebPageTest](http://www.webpagetest.org)<br>
 [Let's Crypt Zertifikate erstellen](https://www.sslforfree.com)<br>
-[Content Security Policy (CSP) Reporting](https://report-uri.io)
+[Content Security Policy (CSP) Reporting](https://report-uri.io)<br>
+[Security Advisories Checker (composer dependencies)](https://security.sensiolabs.org/check)
 
 ***
 ## Domain Management
