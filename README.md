@@ -7,7 +7,9 @@
 [Drush Documentation](http://docs.drush.org)<br>
 [Disable Drupal 8 caching during development](https://www.drupal.org/node/2598914)<br>
 [Drupal 8 Activity Cards - The easiest ladder to learn Drupal 8](http://www.d8cards.com/)<br>
-[Drupal 8 Media Guide](https://www.gitbook.com/book/drupal-media/drupal8-guide/details)
+[Drupal 8 Media Guide](https://www.gitbook.com/book/drupal-media/drupal8-guide/details)<br>
+<br>
+[Drupal 8 Component Based Design with Paragraphs](https://youtu.be/EC-0vsX1Tag)
 
 ***
 ## Development
