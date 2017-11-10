@@ -9,7 +9,9 @@
 [Drupal 8 Activity Cards - The easiest ladder to learn Drupal 8](http://www.d8cards.com/)<br>
 [Drupal 8 Media Guide](https://www.gitbook.com/book/drupal-media/drupal8-guide/details)<br>
 <br>
-[Drupal 8 Component Based Design with Paragraphs](https://youtu.be/EC-0vsX1Tag)
+[Drupal 8 Component Based Design with Paragraphs](https://youtu.be/EC-0vsX1Tag)<br>
+<br>
+[Styling the WYSIWYG Editor in Drupal 8](https://www.lullabot.com/articles/styling-the-wysiwyg-editor-in-drupal-8)
 
 ***
 ## Development
