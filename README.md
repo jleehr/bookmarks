@@ -79,3 +79,7 @@
 [EUIPO - eSearch](https://euipo.europa.eu/eSearch/)<br>
 <br>
 [Scamming-List for Asia Domain names](scam.europeandomaincentre.com)
+
+***
+## Curse
+[UX Crash Course](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
