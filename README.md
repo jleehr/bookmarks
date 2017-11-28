@@ -60,6 +60,7 @@
 
 ***
 ## Webmaster Tools
+[Google Analytics Suite](https://360suite.google.com/overview/home?authuser=0)<br>
 [Google Search Console](https://www.google.com/webmasters/tools)<br>
 [Bing-Webmastertools](https://www.bing.com/webmaster/home/mysites)<br>
 [Yandex.Webmaster](https://webmaster.yandex.com/sites/)<br>
