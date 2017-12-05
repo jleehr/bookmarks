@@ -73,6 +73,15 @@
 [Content Security Policy (CSP) Reporting](https://report-uri.io)<br>
 [Security Advisories Checker (composer dependencies)](https://security.sensiolabs.org/check)
 
+### Ansible
+[Getting Started](http://docs.ansible.com/ansible/latest/intro_getting_started.html)<br>
+[Installation](http://docs.ansible.com/ansible/latest/intro_installation.html)<br>
+[Videos](https://www.ansible.com/videos)<br>
+[How-To on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-ubuntu-14-04)<br>
+[Playbooks](https://www.digitalocean.com/community/tutorials/configuration-management-101-writing-ansible-playbooks#getting-started)<br>
+[Tutorial I](https://serversforhackers.com/c/an-ansible2-tutorial)<br>
+[Tutorial II](https://github.com/leucos/ansible-tuto)
+
 ***
 ## Domain Management
 [IANA — Root Zone Database](https://www.iana.org/domains/root/db)<br>
