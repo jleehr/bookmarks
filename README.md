@@ -82,6 +82,16 @@
 [Tutorial I](https://serversforhackers.com/c/an-ansible2-tutorial)<br>
 [Tutorial II](https://github.com/leucos/ansible-tuto)
 
+### Google Tag Manager (GTM)
+[Google Tag Manager](https://tagmanager.google.com)<br>
+[Naming Convention](https://www.lunametrics.com/blog/2016/04/18/google-tag-manager-naming-strategies-organize-container)<br>
+[Mehrere Umgebungen Tracken #1](https://www.lunametrics.com/blog/2016/05/16/deploying-gtm-multiple-website-environments)<br>
+[Mehrere Umgebungen Tracken #2](https://www.simoahava.com/analytics/better-qa-with-google-tag-manager-environments)<br>
+[Formulare Tracken](https://www.simoahava.com/analytics/track-form-engagement-with-google-tag-manager)<br>
+[Formulare Tracken (bei Abbruch)](https://www.simoahava.com/analytics/track-form-abandonment-with-google-tag-manager)<br>
+[Website Suche](https://www.simoahava.com/analytics/fix-ga-site-search-google-tag-manager)<br>
+[Download Tracking](https://www.ebernickel.de/blog/download-tracking-google-analytics)
+
 ***
 ## Domain Management
 [IANA — Root Zone Database](https://www.iana.org/domains/root/db)<br>
