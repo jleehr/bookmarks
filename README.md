@@ -30,7 +30,8 @@
 [IcoMoon App - Icon Font, SVG, PDF & PNG Generator](https://icomoon.io/app/#/select)<br>
 [Farbschemata - Adobe Color CC](https://color.adobe.com/de/create/color-wheel/)<br>
 [CSS 3d Editor](http://tridiv.com/app/)<br>
-[REST API Testing Client (Chrome Extension)](https://restlet.com/modules/client/)
+[REST API Testing Client (Chrome Extension)](https://restlet.com/modules/client/)<br>
+[Bool Calculator](http://www.sund.de/STUDIUM/bool/Index.htm)
 
 ### Docs/APIs
 [SASS / SCSS](http://sass-lang.com/guide)<br>
