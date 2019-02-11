@@ -31,7 +31,9 @@
 [Farbschemata - Adobe Color CC](https://color.adobe.com/de/create/color-wheel/)<br>
 [CSS 3d Editor](http://tridiv.com/app/)<br>
 [REST API Testing Client (Chrome Extension)](https://restlet.com/modules/client/)<br>
-[Bool Calculator](http://www.sund.de/STUDIUM/bool/Index.htm)
+[Bool Calculator](http://www.sund.de/STUDIUM/bool/Index.htm)<br>
+[Execute PHP functions-online](https://de.functions-online.com/)<br>
+[Online Diagrammeditor]-(https://www.draw.io/)
 
 ### Docs/APIs
 [SASS / SCSS](http://sass-lang.com/guide)<br>
@@ -42,7 +44,9 @@
 <br>
 [D3js - Data-Driven Documents](https://d3js.org/)<br>
 [D3js Doc](https://github.com/d3/d3/wiki)<br>
-[D3js Intro](https://github.com/curran/screencasts/tree/gh-pages/introToD3)
+[D3js Intro](https://github.com/curran/screencasts/tree/gh-pages/introToD3)<br>
+<br>
+[Canto CIP](https://sandbox.canto.com/CIP-doc/CIP.html)
 
 ***
 ## Guidelines
@@ -68,6 +72,7 @@
 [Google Analytics](https://analytics.google.com)<br>
 [Google AdWords](https://adwords.google.com)<br>
 [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)<br>
+[Google Analytics Demos & Tools](https://ga-dev-tools.appspot.com/)
 [SISTRIX](https://next.sistrix.de/toolbox/index)<br>
 [WebPageTest](http://www.webpagetest.org)<br>
 [Let's Crypt Zertifikate erstellen](https://www.sslforfree.com)<br>
@@ -91,7 +96,8 @@
 [Formulare Tracken](https://www.simoahava.com/analytics/track-form-engagement-with-google-tag-manager)<br>
 [Formulare Tracken (bei Abbruch)](https://www.simoahava.com/analytics/track-form-abandonment-with-google-tag-manager)<br>
 [Website Suche](https://www.simoahava.com/analytics/fix-ga-site-search-google-tag-manager)<br>
-[Download Tracking](https://www.ebernickel.de/blog/download-tracking-google-analytics)
+[Download Tracking](https://www.ebernickel.de/blog/download-tracking-google-analytics)<br>
+[GTM Tools](http://www.gtmtools.com/)
 
 ***
 ## Domain Management
